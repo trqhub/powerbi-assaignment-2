@@ -24,3 +24,4 @@ Interactive visualizations show the distribution of orders by ship mode, includi
 
 A detailed column chart highlights sales trends over time, enabling users to observe consistent growth or seasonal fluctuations in sales performance.
 
+![image](https://github.com/user-attachments/assets/b3344f8c-745a-4193-bb6a-300798fc3950)
